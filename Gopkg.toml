@@ -32,3 +32,4 @@
 [[constraint]]
   name = "github.com/imdario/mergo"
   version = "v0.3.6"
+
